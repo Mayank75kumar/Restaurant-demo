@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Royal Bites Restaurant</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <nav>
+    <h1>Royal Bites</h1>
+    <div>
+      <a href="index.html">Home</a>
+      <a href="menu.html">Menu</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </nav>
+
+  <div class="hero-text">
+    <h2>Delicious Food. Cozy Place.</h2>
+    <p>Serving the best meals in New York</p>
+    <a href="contact.html" class="btn">Order Now</a>
+  </div>
+</header>
+
+<section class="about">
+  <h2>About Us</h2>
+  <p>Royal Bites is a family restaurant serving fresh and delicious meals with love.</p>
+</section>
+
+<section class="features">
+  <div>🍕 Fresh Ingredients</div>
+  <div>🚚 Fast Delivery</div>
+  <div>⭐ Top Rated</div>
+</section>
+
+<footer>© 2026 Royal Bites Restaurant</footer>
+
+</body>
+</html>

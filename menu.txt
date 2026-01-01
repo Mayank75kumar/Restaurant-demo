@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Menu</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1 class="page-title">Our Menu</h1>
+
+<div class="menu">
+  <div class="item">Cheese Pizza - $12</div>
+  <div class="item">Chicken Burger - $10</div>
+  <div class="item">Pasta Alfredo - $14</div>
+  <div class="item">Grilled Sandwich - $8</div>
+</div>
+
+</body>
+</html>
